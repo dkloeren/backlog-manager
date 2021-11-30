@@ -1,0 +1,2 @@
+class SharedItem < ApplicationRecord
+end

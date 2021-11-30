@@ -1,0 +1,2 @@
+class WishlistCondition < ApplicationRecord
+end
